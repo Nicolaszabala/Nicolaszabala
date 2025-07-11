@@ -1,15 +1,14 @@
 # 👋 ¡Hola! Soy Nicolás Zabala
 
-### 🚀 Desarrollador | Ingeniero | Aprendiz constante
+### 🚀 Desarrollador Fullstack
 
 Soy un apasionado de la tecnología, la automatización y la mejora continua. Trabajo creando soluciones que conectan personas, procesos y sistemas de forma eficiente y elegante.  
-Actualmente exploro proyectos de **automatización industrial**, **transformación digital** y **desarrollo web** con tecnologías como **Node.js**, **React**, **GraphQL**, **Python** y **.NET**.
+Actualmente exploro proyectos de **automatización**, **transformación digital** y **desarrollo web** con tecnologías como **Node.js**, **React**, **GraphQL**, **Python** y **.NET**.
 
 ---
 
 ## 💡 Lo que hago
 
-- ⚙️ **Automatización & IT/OT**: Desarrollo soluciones que integran sistemas de planta con software de gestión.
 - 🖥️ **Desarrollo Web**: Diseño aplicaciones escalables con tecnologías modernas.
 - 🧠 **Inteligencia Artificial**: Investigo y aplico modelos neuronales en la industria.
 - 🤝 **Consultoría & Soporte**: Ayudo a empresas a optimizar procesos mediante tecnología.
@@ -19,7 +18,7 @@ Actualmente exploro proyectos de **automatización industrial**, **transformaci�
 ## 📌 Actualmente trabajando en
 
 - 🌐 Una aplicación que integra WhatsApp con un sistema de tickets.
-- 🤖 Un proyecto universitario sobre redes neuronales para control de calidad en líneas de montaje.
+- 🤖 Un proyecto sobre redes neuronales para control de calidad en líneas de montaje.
 - 🗂️ Mejorando la integración entre **Zoho CRM**, **Shopify** y **Zoho Books**.
 
 ---
@@ -38,8 +37,7 @@ Actualmente exploro proyectos de **automatización industrial**, **transformaci�
 ## 📫 Conectemos
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/nicolaszabala)
-- ✉️ **Email**: [tu_email@example.com]
-- 🌍 **Portfolio** (si tienes uno)
+- ✉️ **Email**: nznicolaszabala@gmail.com
 
 ---
 
