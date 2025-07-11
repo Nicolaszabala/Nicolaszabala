@@ -2,7 +2,7 @@
 
 ### 🚀 Desarrollador Fullstack
 
-Soy un apasionado de la tecnología, la automatización y la mejora continua. Trabajo creando soluciones que conectan personas, procesos y sistemas de forma eficiente y elegante.  
+Soy un apasionado de la tecnología, la automatización y la mejora continua. Trabajo creando soluciones que conectan personas, procesos y sistemas de forma eficiente.  
 Actualmente exploro proyectos de **automatización**, **transformación digital** y **desarrollo web** con tecnologías como **Node.js**, **React**, **GraphQL**, **Python** y **.NET**.
 
 ---
